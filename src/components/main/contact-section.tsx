@@ -172,7 +172,7 @@ export default function ContactSection() {
 
             {submitSuccess ? (
               <div className="bg-green-500/20 border border-green-500/30 rounded-lg p-4 mb-6">
-                <p className="text-green-400">Your message has been sent successfully! We'll get back to you soon.</p>
+                <p className="text-green-400">Your message has been sent successfully! We&apos;ll get back to you soon.</p>
               </div>
             ) : null}
 

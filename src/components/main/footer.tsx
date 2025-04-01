@@ -2,7 +2,6 @@
 
 import { useState, useEffect, useRef } from "react";
 import Link from "next/link";
-import Image from "next/image";
 import {
     ArrowUpRight,
     Github,
@@ -267,7 +266,7 @@ export default function Footer() {
                             }`}>
                             <div className="flex flex-col md:flex-row md:items-center justify-between gap-6">
                                 <div>
-                                    <h3 className="text-white font-semibold mb-2">Let's Connect</h3>
+                                    <h3 className="text-white font-semibold mb-2">Let&apos;s Connect</h3>
                                     <p className="text-zinc-400 text-sm">Follow us on social media and join our community</p>
                                 </div>
 

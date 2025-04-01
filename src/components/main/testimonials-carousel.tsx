@@ -167,7 +167,7 @@ export default function TestimonialsCarousel() {
                 ))}
               </div>
               <Quote className="h-8 w-8 text-orange-500/40 mb-4" />
-              <p className="text-xl text-zinc-300 italic leading-relaxed">"{currentTestimonial.quote}"</p>
+              <p className="text-xl text-zinc-300 italic leading-relaxed">&quot;{currentTestimonial.quote}&quot;</p>
             </div>
 
             <div className="flex justify-between items-center">
@@ -268,7 +268,7 @@ export default function TestimonialsCarousel() {
               ))}
             </div>
 
-            <p className="text-sm text-zinc-300 italic line-clamp-3">"{currentTestimonial.quote}"</p>
+            <p className="text-sm text-zinc-300 italic line-clamp-3">&quot;{currentTestimonial.quote}&quot;</p>
 
             <div className="flex justify-between items-center mt-4 pt-3 border-t border-zinc-700/50">
               <div className="flex gap-1">

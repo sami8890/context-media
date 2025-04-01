@@ -1,6 +1,5 @@
 import ContactSection from "@/components/main/contact-section"
 import FAQ from "@/components/main/faq-section."
-import Footer from "@/components/main/footer"
 import HeroSection from "@/components/main/hero"
 import PortfolioSection from "@/components/main/portfolio-section"
 import TeamSection from "@/components/main/team-section"

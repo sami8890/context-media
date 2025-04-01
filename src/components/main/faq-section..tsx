@@ -92,7 +92,7 @@ export default function FAQ() {
                 </div>
 
                 <div className="mt-12 text-center">
-                    <p className="text-zinc-300 mb-4">Still have questions? We're here to help.</p>
+                    <p className="text-zinc-300 mb-4">Still have questions? We&apos;re here to help.</p>
                     <Button className="bg-zinc-800 hover:bg-zinc-700 text-white px-6 py-4 h-auto rounded-xl flex items-center gap-2 mx-auto">
                         <MessageSquare className="h-4 w-4" />
                         Contact Support
